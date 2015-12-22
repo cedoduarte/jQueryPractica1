@@ -1,0 +1,23 @@
+#caja {
+  width: 250px;
+  height: 250px;
+  overflow: scroll;
+}
+
+.default {
+  color: rgb(112, 41, 105);
+  font-size: 20px;
+}
+
+.activo {
+  color: rgb(238, 121, 45);
+  font-size: 25px;
+}
+
+#contenedor-1 {
+  position: relative;
+  width: 250px;
+  height: 250px;
+  background: black;
+  border-radius: 50%;
+}
